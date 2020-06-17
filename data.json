@@ -1,0 +1,34 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "jdoe@gmail.com",
+      "age": "29"
+    },
+    {
+      "id": "2",
+      "name": "Bob Cobb",
+      "email": "bcobb@gmail.com",
+      "age": "22"
+    },
+    {
+      "id": "3",
+      "name": "Dylan Taft",
+      "email": "dtaft@gmail.com",
+      "age": "33"
+    },
+    {
+      "id": "4",
+      "name": "Ross The Boss",
+      "email": "rboss@gmail.com",
+      "age": "65"
+    },
+    {
+      "id": "5",
+      "name": "Joe Schmo",
+      "email": "js@gmail.com",
+      "age": "42"
+    }
+  ]
+}
